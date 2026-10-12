@@ -4,7 +4,7 @@ Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Das
 
 ## 👨‍💻 Identitas Mahasiswa
 
-- **Dosen Pengampu:** Bu Mamluatul Hani'ah, S.Kom., M.Kom.	
+- **Dosen Pengampu:** Bu Mamluatul Hani'ah, S.Kom., M.Kom.
 - **Nama:** Zidan Mubarok
 - **NIM:** 264107020061
 - **Program Studi:** D-4 Teknik Informatika
@@ -14,15 +14,17 @@ Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Das
 
 ## 📂 Daftar Jobsheet
 
-| No. | Jobsheet | Status |
-|:---:|---|---|
-| 1 | Jobsheet 1 - [Judul Materi] | ✅ Selesai |
-| 2 | Jobsheet 2 - [Judul Materi] | ⏳ Proses |
-| 3 | Jobsheet 3 - [Judul Materi] | ⏳ Proses |
-| 4 | Jobsheet 4 - [Judul Materi] | ⏳ Proses |
-| 5 | Jobsheet 5 - [Judul Materi] | ⏳ Proses |
+| No. | Jobsheet                    | Status     |
+| :-: | --------------------------- | ---------- |
+|  1  | Jobsheet 1 - [Judul Materi] | ✅ Selesai |
+|  2  | Jobsheet 2 - [Judul Materi] | ✅ Selesai |
+|  3  | Jobsheet 3 - [Judul Materi] | ✅ Selesai |
+|  4  | Jobsheet 4 - [Judul Materi] | ✅ Selesai |
+|  5  | Jobsheet 5 - [Judul Materi] | ✅ Selesai |
+|  6  | Jobsheet 6 - [Judul Materi] | ✅ Selesai |
+|  7  | Jobsheet 7 - [Judul Materi] | ✅ Selesai |
 
-*Daftar jobsheet akan diperbarui sesuai dengan materi dan tugas praktikum yang diberikan.*
+_Daftar jobsheet akan diperbarui sesuai dengan materi dan tugas praktikum yang diberikan._
 
 ## 🛠️ Teknologi yang Digunakan
 
