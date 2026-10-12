@@ -2,15 +2,15 @@
 
 Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Daspro) Semester 1** yang dikerjakan sebagai bagian dari kegiatan praktikum perkuliahan.
 
-## 👨‍🎓 Identitas Mahasiswa
+## 👨‍💻 Identitas Mahasiswa
 
+- **Dosen Pengampu:** Bu Mamluatul Hani'ah, S.Kom., M.Kom.	
 - **Nama:** Zidan Mubarok
 - **NIM:** 264107020061
 - **Program Studi:** D-4 Teknik Informatika
 - **Kelas:** TI-1E
 - **Mata Kuliah:** Praktikum Dasar Pemrograman
 - **Semester:** 1
-- **Dosen Pengampu:** Bu Mamluatul Hani'ah, S.Kom., M.Kom.	
 
 ## 📂 Daftar Jobsheet
 
