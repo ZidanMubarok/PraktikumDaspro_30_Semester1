@@ -5,7 +5,7 @@ Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Das
 ## 👨‍💻 Identitas Mahasiswa
 
 - **Dosen Pengampu:** Bu Mamluatul Hani'ah, S.Kom., M.Kom.
-- **Nama:** Zidan Mubarok
+- **Nama:** Zidan Mubarok (30)
 - **NIM:** 264107020061
 - **Program Studi:** D-4 Teknik Informatika
 - **Kelas:** TI-1E
