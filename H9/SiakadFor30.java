@@ -9,6 +9,7 @@ public class SiakadFor30 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double nilai, tertinggi = 0, terendah = 100;
+        int lulus = 0, noLulus = 0, nilaiMin = 63;
 
         for (int i = 1; i <= 8; i++) { // Sebelumnya batasnya 10 dan diganti dengan angka unik 8
             System.out.print("Masukkan nilai mahasiswa ke-" + i + " : ");
@@ -19,9 +20,16 @@ public class SiakadFor30 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
+
+            if (nilai >= nilaiMin) {
+                ++lulus;
+            } else {
+                ++noLulus;
+            }
         }
         System.out.println("Nilai tertinggi : " + tertinggi);
         System.out.println("Nilai terendah  : " + terendah);
-
+        System.out.println("Jumlah Mahasiswa Lulus : " + lulus + " Mahasiswa");
+        System.out.println("Jumlah Mahasiswa Tidak Lulus : " + noLulus + " Mahasiswa");
     }
 }
