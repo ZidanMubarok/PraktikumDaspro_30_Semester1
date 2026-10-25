@@ -15,15 +15,17 @@ Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Das
 
 ## 📂 Daftar Jobsheet
 
-| No. | Jobsheet                    | Status     |
-| :-: | --------------------------- | ---------- |
-|  1  | Jobsheet 1 - [Judul Materi] | ✅ Selesai |
-|  2  | Jobsheet 2 - [Judul Materi] | ✅ Selesai |
-|  3  | Jobsheet 3 - [Judul Materi] | ✅ Selesai |
-|  4  | Jobsheet 4 - [Judul Materi] | ✅ Selesai |
-|  5  | Jobsheet 5 - [Judul Materi] | ✅ Selesai |
-|  6  | Jobsheet 6 - [Judul Materi] | ✅ Selesai |
-|  7  | Jobsheet 7 - [Judul Materi] | ✅ Selesai |
+| No. | Jobsheet                                      | Status     |
+| :-: | --------------------------------------------- | ---------- |
+|  1  | Jobsheet 1 - Konsep Algoritma                 | ✅ Selesai |
+|  2  | Jobsheet 2 - Tpe Data, Variabel, Input-Output | ✅ Selesai |
+|  3  | Jobsheet 3 - Operator                         | ✅ Selesai |
+|  4  | Kuiz -                                        | ✅ Selesai |
+|  5  | Jobsheet 5 - Pemilihan/Percabangan            | ✅ Selesai |
+|  6  | Jobsheet 6 - Pemilihan Bersarang              | ✅ Selesai |
+|  7  | Jobsheet 7 - Latihan Studi Kasus              | ✅ Selesai |
+|  8  | UTS -                                         | ✅ Selesai |
+|  9  | Jobsheet 9 - Perulangan                       | ✅ Selesai |
 
 _Daftar jobsheet akan diperbarui sesuai dengan materi dan tugas praktikum yang diberikan._
 
