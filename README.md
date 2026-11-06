@@ -26,6 +26,7 @@ Repository ini berisi kumpulan tugas **Jobsheet Praktikum Dasar Pemrograman (Das
 |  7  | Jobsheet 7 - Latihan Studi Kasus              | ✅ Selesai |
 |  8  | UTS -                                         | ✅ Selesai |
 |  9  | Jobsheet 9 - Perulangan                       | ✅ Selesai |
+|  10  | Jobsheet 10 - Perulangan Bercabang                       | ✅ Selesai |
 
 _Daftar jobsheet akan diperbarui sesuai dengan materi dan tugas praktikum yang diberikan._
 
@@ -47,7 +48,8 @@ praktikum-daspro/
 ├── jobsheet-06/
 ├── jobsheet-07/
 ├── UTS/
-└── jobsheet-09/
+├── jobsheet-09/
+└── jobsheet-10/
 
 ```
 
