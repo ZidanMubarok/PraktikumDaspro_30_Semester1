@@ -17,6 +17,22 @@ public class Triangle30 {
             System.out.println("");
             i++;
         }
+
+        System.out.println("");
+
+        i = 0;
+        while (i < n) {
+            int j = 0;
+            while (j < n) {
+                System.out.print("*");
+                j++;
+                if ((i+j)==n) {
+                    break;
+                }
+            }
+            System.out.println("");
+            i++;
+        }
         sc.close();
     }
 }
