@@ -11,7 +11,7 @@ public class Rectangle30 {
         int kolom = sc.nextInt();
         for (int i = 1; i <= baris; i++) { // outer loop untuk baris
             for (int j = 1; j <= kolom; j++) { // inner loop untuk kolom
-                System.out.print("*");
+                System.out.print("#");
             }
             System.out.println(""); // Pindah baris
         }
