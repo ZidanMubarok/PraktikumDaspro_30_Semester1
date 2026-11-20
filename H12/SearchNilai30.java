@@ -1,5 +1,6 @@
 package H12;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class SearchNilai30 {
@@ -25,6 +26,7 @@ public class SearchNilai30 {
         }
         if (!ditemukan) {
             System.out.println("Nilai " + key + " tidak ditemukan.");
+            System.out.println("Detail: Nilai " + key + " tidak ada di dalam daftar " + Arrays.toString(nilai) + ".");
         }
 
     }
