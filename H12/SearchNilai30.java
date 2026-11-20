@@ -1,11 +1,21 @@
 package H12;
 
+import java.util.Scanner;
+
 public class SearchNilai30 {
     public static void main(String[] args) {
-        int[] nilai = { 78, 65, 90, 55, 88, 72 };
-        // key 50 + (30 mod 50)=80
-        int key = 80;
+        int jmlNilai, key;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Masukkan jumlah nilai : ");
+        jmlNilai = sc.nextInt();
+        int[] nilai = new int[jmlNilai];
         boolean ditemukan = false;
+        for (int i = 0; i < nilai.length; i++) {
+            System.out.print("Masukkan nilai ke-" + (i + 1) + " : ");
+            nilai[i] = sc.nextInt();
+        }
+        System.out.print("Masukkan nilai key    : ");
+        key = sc.nextInt();
         for (int i = 0; i < nilai.length; i++) {
             if (nilai[i] == key) {
                 System.out.println("Nilai " + key + " ditemukan pada indeks ke-" + i);
